@@ -14,3 +14,11 @@ A professional-grade, vanilla JavaScript temperature converter.
 2. Enter a numeric value in the input field.
 3. Select the source unit from the dropdown.
 4. Click "Convert" to see the results.
+
+**Faisal Laghari**
+
+- GitHub: https://github.com/Faisal-laghari
+- LinkedIn: https://www.linkedin.com/in/faisal-laghari-dev
+
+
+⭐ If you found this project useful, consider giving it a star.
